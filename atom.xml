@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Haybl</title>
+  
+  <subtitle>The Records</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://haybl.cn/"/>
+  <updated>2020-06-21T14:38:30.286Z</updated>
+  <id>http://haybl.cn/</id>
+  
+  <author>
+    <name>hayblcurry</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="http://haybl.cn/2020/06/21/di-yi-pian-wen-zhang/"/>
+    <id>http://haybl.cn/2020/06/21/di-yi-pian-wen-zhang/</id>
+    <published>2020-06-21T14:36:27.000Z</published>
+    <updated>2020-06-21T14:38:30.286Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Hexo博客，利用GitHub！Wonderful！&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://haybl.cn/2020/06/21/hello-world/"/>
+    <id>http://haybl.cn/2020/06/21/hello-world/</id>
+    <published>2020-06-21T14:14:59.158Z</published>
+    <updated>2020-06-21T14:14:59.158Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
