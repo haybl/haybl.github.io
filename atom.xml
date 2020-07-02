@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://haybl.cn/"/>
-  <updated>2020-06-21T14:38:30.286Z</updated>
+  <updated>2020-07-02T14:13:51.513Z</updated>
   <id>http://haybl.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://haybl.cn/2020/06/21/di-yi-pian-wen-zhang/"/>
     <id>http://haybl.cn/2020/06/21/di-yi-pian-wen-zhang/</id>
     <published>2020-06-21T14:36:27.000Z</published>
-    <updated>2020-06-21T14:38:30.286Z</updated>
+    <updated>2020-07-02T14:13:51.513Z</updated>
     
     <summary type="html">
     
@@ -37,6 +37,12 @@
     </summary>
     
     
+      <category term="Markdown" scheme="http://haybl.cn/categories/Markdown/"/>
+    
+    
+      <category term="Typora" scheme="http://haybl.cn/tags/Typora/"/>
+    
+      <category term="Markdown" scheme="http://haybl.cn/tags/Markdown/"/>
     
   </entry>
   
@@ -44,8 +50,8 @@
     <title>Hello World</title>
     <link href="http://haybl.cn/2020/06/21/hello-world/"/>
     <id>http://haybl.cn/2020/06/21/hello-world/</id>
-    <published>2020-06-21T14:14:59.158Z</published>
-    <updated>2020-06-21T14:14:59.158Z</updated>
+    <published>2020-06-21T12:36:27.000Z</published>
+    <updated>2020-07-02T14:15:09.167Z</updated>
     
     <summary type="html">
     
@@ -53,13 +59,20 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;hr&gt;
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
         
       
     
     </summary>
     
     
+      <category term="Markdown" scheme="http://haybl.cn/categories/Markdown/"/>
+    
+    
+      <category term="Typora" scheme="http://haybl.cn/tags/Typora/"/>
+    
+      <category term="Markdown" scheme="http://haybl.cn/tags/Markdown/"/>
     
   </entry>
   
